@@ -1,0 +1,101 @@
+{
+  "petsList": [
+    {
+      "id": "d1",
+      "name": "Pomeranian",
+      "description": "The Pomeranian is a small, square-proportioned, miniature spitz with a cobby, rounded body. This breed shares the spitz characteristics of small ears, double coat, and curled tail. The expression is alert and fox-like, and the gait is smooth and free with good reach and drive. The soft thick undercoat combined with the longer harsh outer coat, standing off from the body, combine to give the dog a unique puffy appearance. This look is further accentuated by the thick ruff and a head carriage that is naturally upgazing.",
+      "details": {
+        "type": "Toy",
+        "weight": "3-7 lb",
+        "height": "8-11\""
+      },
+      "history": "The smallest member of the spitz family, the Pomeranian boasts tough sledding dog ancestors. Exactly when the dog began to be bred down in size is not known; nor is it known exactly where this miniaturization took place, although Germany, and specifically, Pomerania, is the most likely locale. The breed’s likely ancestor was the Deutscher Spitz. Only when the breed was taken to England was it dubbed the Pomeranian, but these early dogs were not the “Poms” known today. They weighed as much as 30 pounds and were often white. In fact, the Japanese Spitz closely resembles these early Pomeranians and very likely descends from them. Although the Pomeranian was recognized by the English Kennel Club in 1870, it was not until Queen Victoria brought a Pomeranian from Italy that popularity grew. The queen’s Pomeranians were rather large gray dogs. By 1900, Poms had been recognized by the AKC, and dogs were being shown in both England and America in an array of colors. This miniature sled dog always attracts admirers and is a very popular pet and show dog.",
+      "health": [
+        "Major concerns: patellar luxation",
+        "Minor concerns: open fontanel, hypoglycemia, shoulder luxation, PRA, entropion",
+        "Occasionally seen: tracheal collapse, PDA, Legg-Perthes",
+        "Suggested tests: knee, eye, cardiac, hip",
+        "Life span: 12–16 years"
+      ],
+      "imageUrl": "d1_pomeranian"
+    },
+    {
+      "id": "d2",
+      "name": "Cavalier King Charles Spaniel",
+      "description": "The Cavalier King Charles Spaniel is an elegant, royal, toy spaniel, slightly longer than tall, with moderate bones. The Cav retains the build of a working spaniel, yet in a smaller version. Their gait is free and elegant, with good reach and drive. Their silky coat is of moderate length, with a slight wave permissible. Long feathering on the feet is a breed characteristic. A hallmark of the breed is its gentle, sweet, melting expression.",
+      "details": {
+        "type": "Toy",
+        "weight": "13-18 lb",
+        "height": "12-13\""
+      },
+      "history": "As its name implies, the Cavalier King Charles Spaniel is derived from spaniel roots. The European toy dogs were probably the result of breeding small spaniels to Oriental toy breeds such as the Japanese Chin and perhaps the Tibetan Spaniel. These Tudor lapdogs, known as “comforter spaniels,” served as lap and foot warmers, and even surrogate hot water bottles. In addition, they served the vital function of attracting fleas from their owners’ bodies! The toy spaniels became especially popular because they appealed to all members of the family.",
+      "health": [
+        "Major concerns: mitral valve insufficiency, CHD, syringomelia",
+        "Minor concerns: patellar luxation, entropion",
+        "Occasionally seen: retinal dysplasia",
+        "Suggested tests: cardiac, hip, knee, eye",
+        "Life span: 9–14 years"
+      ],
+      "imageUrl": "d2_cavalier"
+    },
+    {
+      "id": "d3",
+      "name": "Pug",
+      "description": "Square-proportioned, compact and of a stocky build, the Pug is a large dog in a little space. Their gait is strong and jaunty, but with a slight roll of the hindquarters. Their distinctive expression is soft and solicitous. Their forehead has large, deep wrinkles. Their coat is fine, smooth, and short.",
+      "details": {
+        "type": "Toy",
+        "weight": "14-18 lb",
+        "height": "10-11\""
+      },
+      "history": "The Pug has been known by many names: Mopshond in Holland (which refers to its grumbling tendencies); Mops in Germany, and Dutch or Chinese Pug in England. The word Pug is derived either from the Latin pugnus meaning fist, as the head may have resembled a clenched fist, or from the marmoset “Pug” monkeys that the Pug dogs somewhat resemble.",
+      "health": [
+        "Major concerns: Pug dog encephalitis, CHD, brachycephalic syndrome",
+        "Minor concerns: elongated palate, stenotic nares, patellar luxation, Legg-Perthes, entropion, KCS, skin infections, hemivertebra",
+        "Occasionally seen: seizures, nerve degeneration, distichiasis, allergies, demodicosis",
+        "Suggested tests: eye, hip, knee, DNA Pug dog encephalitis",
+        "Life span: 12–15 years",
+        "Note: The Pug cannot tolerate heat and is sensitive to anesthesia. They are prone to corneal abrasion and obesity."
+      ],
+      "imageUrl": "d3_pug"
+    },
+    {
+      "id": "d4",
+      "name": "Yorkshire Terrier",
+      "description": "The Yorkshire Terrier’s heritage can be seen in their sharp, intelligent expression, confident carriage, and compact body. They a small breed, however, now more noted for their long, silky hair, which is often fine, glossy, and perfectly straight. Their color is a hallmark of this breed, with the blue a dark steel blue and the tan a clear tan.",
+      "details": {
+        "type": "Toy",
+        "weight": "7 lb",
+        "height": "8-9\""
+      },
+      "history": "The Yorkshire Terrier doesn’t look like a product of the working class, nor do they look like a dog who protected the home from rodents, but they were both. In fact, the Yorkshire area of England was known for having fine animals, and it is thought that the Yorkshire Terrier was no accident but rather the result of purposeful mixing between a variety of terriers, probably including the Waterside Terrier, Clydesdale Terrier, Paisley Terrier, rough-coated English Black and Tan Terrier, and perhaps even the Skye Terrier and Dandie Dinmont Terrier.",
+      "health": [
+        "Major concerns: none",
+        "Minor concerns: patellar luxation",
+        "Occasionally seen: portacaval shunt, PRA, tracheal collapse, Legg-Perthes",
+        "Suggested tests: knee, eye, (hip), (thyroid)",
+        "Life span: 14–16 years"
+      ],
+      "imageUrl": "d4_yorkshire"
+    },
+    {
+      "id": "d5",
+      "name": "Bernese Mountain Dog",
+      "description": "The Bernese Mountain Dog is slightly longer than tall, though appearing square. This breed is a sturdy, large, hardy dog with a combination of strength, speed, and agility. The Bernese’s natural working gait is a slow trot, but with good reach and drive. The thick coat is moderately long, and slightly wavy or straight, providing insulation from the cold. The expression is gentle, and the color is striking.",
+      "details": {
+        "type": "Working",
+        "weight": "70-120 lb",
+        "height": "23-27.5\""
+      },
+      "history": "The most well known of the Sennehunde, or Swiss mountain dogs, the Bernese is distinguished by being the only one to have a fairly long, silky coat. The origin of the breed is speculative at best. Some experts believe this breed’s history traces to the Roman invasion of Switzerland, when the Roman mastiffs were crossed with native flock-guarding dogs. This cross produced a strong dog that was able to withstand the Alpine weather and that could serve as draft dog, flock guard, drover, herder, and general farm dog.",
+      "health": [
+        "Major concerns: CHD, elbow dysplasia, mast cell tumor, gastric torsion",
+        "Minor concerns: cataract, entropion, ectropion, SAS",
+        "Occasionally seen: hypomyelination, allergies, vWD, hepatocerebellar degeneration, hypothyroidism, PRA",
+        "Suggested tests: hip, elbow, eye, cardiac, DNA for vWD",
+        "Life span: 6–9 years",
+        "Note: Extra care must be taken to avoid heat stroke."
+      ],
+      "imageUrl": "d5_bernese"
+    }
+  ]
+}
